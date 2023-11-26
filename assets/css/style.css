@@ -5,12 +5,22 @@
     display: flex; 
     align-items: start; 
     flex-direction: column; 
-    width: 12em; 
+    width: 15em; 
+    height: 3em;
     background-color: whitesmoke;
     border: solid 1px gray;
-    
-}
+    }
 .tamaño {
     width: 60px;
     height: 50px;
+}
+.tamaño-chat {
+    width: 150px;
+    height: 25px;
+   
+}
+.chat {
+    height: 60px;
+    justify-content: center;
+    align-items: center;
 }
