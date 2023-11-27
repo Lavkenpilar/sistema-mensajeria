@@ -1,5 +1,6 @@
 .container-padre {
     min-height: 100vh;
+    display: flex;
 }
 .container-hijo {
     display: flex; 
@@ -106,4 +107,19 @@ p {
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+}
+.seccion-principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightgrey;
+    width: 79.625em;
+    height: 34.2628em;
+    }
+.box-parrafo {
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
 }
