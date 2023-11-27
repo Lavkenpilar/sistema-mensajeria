@@ -42,6 +42,14 @@ p {
     margin: top 20px;
     padding-bottom: 20px;
 }
+.fuente-parrafo3 {
+    font-size: 13px;
+    color: gray;
+    height: 100%;
+    margin: top 20px;
+    padding-bottom: 20px;
+}
+
 .parrafo-maria {
     height: 100%
     }
@@ -51,4 +59,51 @@ p {
     justify-content:space-around;
     align-items: center;
 }
-
+.juanita {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.alberto {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.ignacio {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:center ;
+}
+.cristian {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.maria-jose {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.gonzalo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.juan-pablo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.magdalena {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
