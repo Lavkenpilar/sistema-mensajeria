@@ -9,10 +9,13 @@
     height: 3em;
     background-color: whitesmoke;
     border: solid 1px gray;
+    justify-content: center;
     }
 .tamaño {
-    width: 60px;
-    height: 50px;
+    flex-basis: 45px;
+    height: 25px; 
+    border-radius: 30px;
+    
 }
 .tamaño-chat {
     width: 150px;
@@ -20,7 +23,32 @@
    
 }
 .chat {
-    height: 60px;
+    height: 100px;
     justify-content: center;
     align-items: center;
 }
+p {
+    font: size 20px;
+    /*border:solid 1px;*/
+    height: 100%;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    
+}
+.fuente-parrafo2 {
+    font-size: 10px;
+    color: gray;
+    height: 100%;
+    margin: top 20px;
+    padding-bottom: 20px;
+}
+.parrafo-maria {
+    height: 100%
+    }
+.maria {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+}
+
